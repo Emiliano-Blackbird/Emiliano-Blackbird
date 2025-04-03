@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <a href="https://github.com/Emiliano-Blackbird">
-    <img src="https://github.com/user-attachments/assets/f383bf8a-3501-4f0f-9ba5-1ccdadd055be" alt="my banner">
+    <img src="https://github.com/user-attachments/assets/430ec43f-6363-49be-8dec-a09b7e5286e8" alt="my banner">
   </a>
 </p>
 
