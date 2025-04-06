@@ -8,5 +8,5 @@
 <!-- GitHub Stats -->  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emiliano-Blackbird&show_icons=true&theme=tokyonight)
 
-<!-- Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emiliano-Blackbird&layout=compact&theme=tokyonight)](https://github.com/Emiliano-Blackbird/github-readme-stats)
+## ⌨️ Languages 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lagaress&layout=compact&theme=tokyonight)](https://github.com/Lagaress/github-readme-stats)
