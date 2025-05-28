@@ -11,8 +11,7 @@
 
 | Preview | Proyecto | Tecnologías | Demo | Repositorio |
 |---------|----------|-------------|------|-------------|
-| 🚧 In progress | [**Social media app**](https://github.com/Emiliano-Blackbird/My-social-media-project) <br> <sub>----------------------------------<br>Instagram-style social network built. Features include user registration, login, posting, commenting, and profile management..</sub> | ![Python](icons/python-original.svg) ![Django](icons/django-plain-wordmark.svg) ![HTML](icons/HTML5.svg) | [🌐 Live Demo]n/a | 🚫 No demo online
- [GitHub Repo](https://github.com/Emiliano-Blackbird/My-social-media-project) |
+| 🚧 In progress | [**Social media app**](https://github.com/Emiliano-Blackbird/My-social-media-project) <br> <sub>----------------------------------<br>Instagram-style social network built. Features include user registration, login, posting, commenting, and profile management..</sub> | ![Python](icons/python-original.svg) ![Django](icons/django-plain-wordmark.svg) ![HTML](icons/HTML5.svg) | 🚫 No demo online | [GitHub Repo](https://github.com/Emiliano-Blackbird/My-social-media-project) |
 | 🚧 In progress | [**Portfolio Page**](https://github.com/Emiliano-Blackbird/Page-portfolio-project) <br> <sub>----------------------------------<br>A personal webpage designed to showcase projects, skills, and contact information in a clean and user-friendly layout. Features a responsive design with a clear section structure focused on enhancing user experience.</sub> | ![Sass](icons/sass-original.svg) ![HTML](icons/HTML5.svg) ![Vite](icons/vitejs-original.svg) ![JavaScript](icons/javascript-original.svg) | [🌐 Live Demo](https://emiliano-blackbird.github.io/Page-portfolio-project/) | <img src="icons/github-original-wordmark.svg" width="20"/> [GitHub Repo](https://github.com/Emiliano-Blackbird/Page-portfolio-project) |
 
 ---
