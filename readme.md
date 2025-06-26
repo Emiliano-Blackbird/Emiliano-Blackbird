@@ -19,7 +19,7 @@
 | <img src="preview-img/preview-modern-art-gallery.png" width="320"/> | [**Modern Art Gallery - Web**](https://github.com/Emiliano-Blackbird/Modern-art-gallery) <br><br> [<img src="icons/GitHub-gray_ Code.svg" width="100px"/>](https://github.com/Emiliano-Blackbird/Modern-art-gallery) <br> <sub><br>"A visually stunning web project designed for seamless performance across tablets, phones, and desktops. Experience an abstract aesthetic that adapts beautifully to any screen, merging sleek design with responsive functionality.".</sub> | <img src="icons/sass-original.svg" width="50"/> <img src="icons/HTML5.svg" width="50"/> <img src="icons/vitejs-original.svg" width="50"/> <img src="icons/javascript-original.svg" width="50"/> | [🌐 Live Demo](https://emiliano-blackbird.github.io/Modern-art-gallery/) |
 
 <!--
-| <img src="preview-img/ejemplo.png" width="320"/> | [**Proyecto**](https://github.com/usuario/repo) <br><br> <img src="icons/GitHub-gray_ Code.svg" width="100px"/> <br> <sub><br>Breve descripción del proyecto.</sub> | <img src="icons/CSS3.svg" width="50"/> <img src="icons/CSS3.svg" width="50"/> | [🌐 Live Demo](https://link-demo.com) |
+| <img src="preview-img/ejemplo.png" width="320"/> | [**Proyecto**](https://github.com/usuario/repo) <br><br> [<img src="icons/GitHub-gray_ Code.svg" width="100px"/>](https://github.com/usuario/repo) <br> <sub><br>Breve descripción del proyecto.</sub> | <img src="icons/CSS3.svg" width="50"/> <img src="icons/CSS3.svg" width="50"/> | [🌐 Live Demo](https://link-demo.com) |
 -->
 
 ## 👨‍💻 Author
