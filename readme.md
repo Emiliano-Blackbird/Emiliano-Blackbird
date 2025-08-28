@@ -7,7 +7,7 @@
 
 ---
 
-## My main projects
+## My main projects (2025)
 
 | Preview | Project & Repository | Technologies | Demo |
 |--------|---------|--------------|------|
