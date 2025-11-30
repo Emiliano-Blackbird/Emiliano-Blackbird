@@ -20,6 +20,10 @@
 | <img src="preview-img/preview-mini-projects.png" width="320"/> | [**Mini Projects With HTML - CSS - JavaScript**](https://github.com/Emiliano-Blackbird/Plantillas-HTML-CSS-JS) <br><br> [<img src="icons/GitHub-gray_ Code.svg" width="100px"/>](https://github.com/Emiliano-Blackbird/Plantillas-HTML-CSS-JS) <br> <sub><br>A collection of useful mini projects and components to integrate into larger applications.</sub> | <img src="icons/javascript-original.svg" width="50"/> <img src="icons/CSS3.svg" width="50"/> <img src="icons/HTML5.svg" width="50"/> <img src="icons/vitejs-original.svg" width="50"/> | 🚫 No demo online, only Repository |
 | <img src="/icons/arduino_preview.svg" width="320"/> | [**My Personal Arduino Projects**](https://github.com/Emiliano-Blackbird/arduino_projects_by_emiliano_blackbird) <br><br> [<img src="icons/GitHub-gray_ Code.svg" width="100px"/>](https://github.com/Emiliano-Blackbird/arduino_projects_by_emiliano_blackbird) <br> <sub><br>A collection of my personal Arduino Projects with software (in C++) and hardware.</sub> | <img src="icons/c_logo.svg" width="50"/> | 🚫 No demo online, only Repository |
 
+#### Developed using <img src="icons/git-original-wordmark.svg" width="50" style="vertical-align: middle;"/> with a clean and organized commit history.
+
+---
+
 ## 👨‍💻 Contact Author
 
     Emiliano Perez Paponi
